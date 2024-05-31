@@ -1,0 +1,7 @@
+hw/build/**
+hw/simple/**
+sw/build/**
+sw/simple/**
+images/**
+lab.pdf
+**.log

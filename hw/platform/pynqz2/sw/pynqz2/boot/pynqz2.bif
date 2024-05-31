@@ -1,0 +1,7 @@
+/*pynqz2*/
+the_ROM_image:
+{
+  [bootloader]<pynqz2/boot/fsbl.elf>
+   <bitstream> 
+  <elf>
+}
